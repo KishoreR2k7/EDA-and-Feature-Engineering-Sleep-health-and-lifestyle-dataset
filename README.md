@@ -1,4 +1,4 @@
-# 💤 Sleep Health and Lifestyle Analysis  
+# Sleep Health and Lifestyle Analysis  
 
 ## 📌 Project Overview  
 This project explores the **Sleep Health and Lifestyle dataset** to analyze factors affecting sleep quality, stress levels, and sleep disorders.  
@@ -43,33 +43,26 @@ It includes **data cleaning, exploratory data analysis (EDA), visualization, and
 📊 Below are some key plots generated during the analysis:  
 
 #### 🔹 Age Distribution  
-Age Distribution:
 <img width="706" height="569" alt="image" src="https://github.com/user-attachments/assets/57dde9fc-bae8-4bf3-8f4d-c91e2ce5ffa8" />
 
 
 #### 🔹 Sleep Duration Distribution  
-Sleep Duration Distribution:
 <img width="703" height="549" alt="image" src="https://github.com/user-attachments/assets/29e323ac-2a2a-424b-9903-a8be8331fd4d" />
 
 #### 🔹 Distribution of Sleep Disorders  
-Distribution of Sleep Disorders:
 <img width="705" height="568" alt="image" src="https://github.com/user-attachments/assets/709cd9ca-4304-403e-a9b9-45e1ddc92178" />
 
 #### 🔹 Stress Level across Sleep Disorders  
-Stress Level across Sleep Disorders:
-<img width="703" height="563" alt="image" src="https://github.com/user-attachments/assets/9d548391-6f58-49e7-a953-993b0492c010" />
+<img width="691" height="567" alt="image" src="https://github.com/user-attachments/assets/1096d85a-a3b9-4fe7-bf1a-f398daeeddc2" />
 
 #### 🔹 Gender vs Sleep Disorder  
-Gender vs Sleep Disorder:  
 <img width="702" height="565" alt="image" src="https://github.com/user-attachments/assets/ee7a33a4-f37f-440f-9be7-0250a28e3109" />
 
 
 #### 🔹 BMI Category vs Sleep Disorder  
-BMI Category vs Sleep Disorder:
 <img width="702" height="560" alt="image" src="https://github.com/user-attachments/assets/7842ad33-a67a-4983-8edb-803b19f5191a" />
 
 #### 🔹 Stress Category vs Age Group  
-Stress Category vs Age Group:
 <img width="705" height="567" alt="image" src="https://github.com/user-attachments/assets/abe93241-5750-4e68-9ada-10d1a4d45d6e" />
 
 ---
