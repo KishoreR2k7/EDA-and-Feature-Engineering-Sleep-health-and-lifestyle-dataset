@@ -1,4 +1,4 @@
-# Sleep Health and Lifestyle Analysis  
+# 💤 Sleep Health and Lifestyle Analysis  
 
 ## 📌 Project Overview  
 This project explores the **Sleep Health and Lifestyle dataset** to analyze factors affecting sleep quality, stress levels, and sleep disorders.  
@@ -43,25 +43,25 @@ It includes **data cleaning, exploratory data analysis (EDA), visualization, and
 📊 Below are some key plots generated during the analysis:  
 
 #### 🔹 Age Distribution  
-![Age Distribution]
+(Age%20Distribution.png)  
 
 #### 🔹 Sleep Duration Distribution  
-![Sleep Duration Distribution] 
+![Sleep Duration Distribution](Sleep%20Duration%20Distribution.png)  
 
 #### 🔹 Distribution of Sleep Disorders  
-![Distribution of Sleep Disorders]  
+![Distribution of Sleep Disorders](Distribution%20of%20Sleep%20Disorders.png)  
 
 #### 🔹 Stress Level across Sleep Disorders  
-![Stress Level across Sleep Disorders] 
+![Stress Level across Sleep Disorders](Stress%20Level%20across%20Sleep%20Disorders.png)  
 
 #### 🔹 Gender vs Sleep Disorder  
-![Gender vs Sleep Disorder] 
+![Gender vs Sleep Disorder](Gender%20vs%20Sleep%20Disorder.png)  
 
 #### 🔹 BMI Category vs Sleep Disorder  
-![BMI Category vs Sleep Disorder] 
+![BMI Category vs Sleep Disorder](BMI%20Category%20vs%20Sleep%20Disorder.png)  
 
 #### 🔹 Stress Category vs Age Group  
-![Stress Category vs Age Group] 
+![Stress Category vs Age Group](Stress%20Category%20vs%20Age%20Group.png)  
 
 ---
 
