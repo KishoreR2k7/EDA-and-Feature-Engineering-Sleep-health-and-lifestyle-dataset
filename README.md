@@ -43,25 +43,25 @@ It includes **data cleaning, exploratory data analysis (EDA), visualization, and
 📊 Below are some key plots generated during the analysis:  
 
 #### 🔹 Age Distribution  
-![Age Distribution](Age%20Distribution.png)  
+![Age Distribution]
 
 #### 🔹 Sleep Duration Distribution  
-![Sleep Duration Distribution](Sleep%20Duration%20Distribution.png)  
+![Sleep Duration Distribution] 
 
 #### 🔹 Distribution of Sleep Disorders  
-![Distribution of Sleep Disorders](Distribution%20of%20Sleep%20Disorders.png)  
+![Distribution of Sleep Disorders]  
 
 #### 🔹 Stress Level across Sleep Disorders  
-![Stress Level across Sleep Disorders](Stress%20Level%20across%20Sleep%20Disorders.png)  
+![Stress Level across Sleep Disorders] 
 
 #### 🔹 Gender vs Sleep Disorder  
-![Gender vs Sleep Disorder](Gender%20vs%20Sleep%20Disorder.png)  
+![Gender vs Sleep Disorder] 
 
 #### 🔹 BMI Category vs Sleep Disorder  
-![BMI Category vs Sleep Disorder](BMI%20Category%20vs%20Sleep%20Disorder.png)  
+![BMI Category vs Sleep Disorder] 
 
 #### 🔹 Stress Category vs Age Group  
-![Stress Category vs Age Group](Stress%20Category%20vs%20Age%20Group.png)  
+![Stress Category vs Age Group] 
 
 ---
 
